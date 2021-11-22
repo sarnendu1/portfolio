@@ -2956,3 +2956,10 @@ BLOG Pagination
 .txt8 {
   justify-content: space-between;
 }
+@media screen and (max-width:767px) {
+  .mh-nav{
+    width: 100%;
+    border: none;
+    background: transparent;
+  }
+}
