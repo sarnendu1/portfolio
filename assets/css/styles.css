@@ -2960,6 +2960,6 @@ BLOG Pagination
   .mh-nav{
     width: 100%;
     border: none;
-    background: green;
+    background: transparent;
   }
 }
