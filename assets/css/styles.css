@@ -817,7 +817,7 @@ button {
     -webkit-box-shadow: -1rem 0 3rem #001D38;
     box-shadow: -1rem 0 3rem #001D38; }
   .dark-vertion .mh-home .hero-img img {
-    border: 20px solid rgba(0, 0, 0, 0.4); }
+    border: 1px solid rgba(0, 0, 0, 0.4); }
   .dark-vertion .mh-home .img-border {
     border: 20px solid yellow; }
   .dark-vertion .candidatos .parcial .progressBar {
