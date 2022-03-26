@@ -2395,7 +2395,8 @@ border-radius: 10px;}
       color: #fff;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      background: rgba(74, 78, 72, 0.9); }
+      background: #602ac3;
+    opacity: 0.9; }
       .mh-project-gallery .grid-item figure:hover figcaption:after {
         opacity: 1;
         transform: translateX(0) translateY(0) translateZ(0) rotate(0deg) scale(1);
@@ -2984,4 +2985,8 @@ BLOG Pagination
     border: none;
     background: transparent;
   }
+}
+
+.white {
+  color: white !important;
 }
