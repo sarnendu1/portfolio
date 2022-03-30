@@ -716,7 +716,7 @@ button {
     .dark-vertion.black-bg {
       background-color: white; }
   .dark-vertion .section-loader {
-    background: #100e17; }
+    background: white; }
   .dark-vertion ::placeholder {
     color: #fff; }
   .dark-vertion a {
